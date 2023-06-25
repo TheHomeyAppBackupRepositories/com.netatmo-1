@@ -1,0 +1,17 @@
+{
+  "common": {
+    "unavailable": "Dit apparaat is onbereikbaar."
+  },
+  "energy": {
+    "unreachable": "Dit apparaat is onbereikbaar.",
+    "no_room": "Dit apparaat is niet onderdeel van een kamer.",
+    "default_schedule": "Standaard schema"
+  },
+  "health": {
+    "0": "Gezond",
+    "1": "Redelijk",
+    "2": "Oke",
+    "3": "Slecht",
+    "4": "Ongezond"
+  }
+}

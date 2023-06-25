@@ -1,0 +1,17 @@
+{
+  "common": {
+    "unavailable": "The device is unavailable."
+  },
+  "energy": {
+    "unreachable": "This device is unreachable.",
+    "no_room": "This device is not part of a room.",
+    "default_schedule": "Default Schedule"
+  },
+  "health": {
+    "0": "Healthy",
+    "1": "Fine",
+    "2": "Fair",
+    "3": "Poor",
+    "4": "Unhealthy"
+  }
+}

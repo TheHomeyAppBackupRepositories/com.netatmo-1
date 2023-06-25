@@ -1,0 +1,31 @@
+{
+  "name": "com.netatmo",
+  "version": "1.0.0",
+  "description": "Connect your Netatmo devices to Homey. Currently supported are:",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "homey-oauth2app": "^3.1.1"
+  },
+  "devDependencies": {
+    "@types/homey": "npm:homey-apps-sdk-v3-types@^0.1.0",
+    "eslint": "^7.5.0",
+    "eslint-config-athom": "^2.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/athombv/com.netatmo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/athombv/com.netatmo/issues"
+  },
+  "homepage": "https://github.com/athombv/com.netatmo#readme"
+}

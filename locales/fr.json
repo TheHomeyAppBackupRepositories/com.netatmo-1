@@ -1,0 +1,17 @@
+{
+  "common": {
+    "unavailable": "Le dispositif est indisponible."
+  },
+  "energy": {
+    "unreachable": "Ce dispositif est inaccessible.",
+    "no_room": "Ce dispositif ne fait pas partie d'une pièce.",
+    "default_schedule": "Calendrier par défaut"
+  },
+  "health": {
+    "0": "En bonne santé",
+    "1": "Bien",
+    "2": "Médiocre",
+    "3": "Mauvais",
+    "4": "Malsain"
+  }
+}

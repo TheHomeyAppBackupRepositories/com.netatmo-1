@@ -1,0 +1,17 @@
+{
+  "common": {
+    "unavailable": "Das Gerät ist nicht verfügbar."
+  },
+  "energy": {
+    "unreachable": "Dieses Gerät ist nicht erreichbar.",
+    "no_room": "Dieses Gerät ist keinem Raum zugeordnet.",
+    "default_schedule": "Standardzeitplan"
+  },
+  "health": {
+    "0": "Gesund",
+    "1": "Gut",
+    "2": "Durchschnittlich",
+    "3": "Schlecht",
+    "4": "Ungesund"
+  }
+}

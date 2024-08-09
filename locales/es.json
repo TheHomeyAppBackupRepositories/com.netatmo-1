@@ -1,0 +1,17 @@
+{
+  "common": {
+    "unavailable": "El dispositivo no está disponible."
+  },
+  "energy": {
+    "unreachable": "Este dispositivo es inalcanzable.",
+    "no_room": "Este dispositivo no es parte de una habitación.",
+    "default_schedule": "Horario predeterminado"
+  },
+  "health": {
+    "0": "Saludable",
+    "1": "Bien",
+    "2": "Regular",
+    "3": "Mal",
+    "4": "Insalubre"
+  }
+}

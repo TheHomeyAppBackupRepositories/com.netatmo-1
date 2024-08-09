@@ -1,0 +1,17 @@
+{
+  "common": {
+    "unavailable": "Enheten er utilgjengelig."
+  },
+  "energy": {
+    "unreachable": "Denne enheten er utilgjengelig.",
+    "no_room": "Denne enheten er ikke en del av et rom.",
+    "default_schedule": "Standard plan"
+  },
+  "health": {
+    "0": "Sunn",
+    "1": "Bra",
+    "2": "Rimelig",
+    "3": "Dårlig",
+    "4": "Usunn"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "common": {
+    "unavailable": "Enheden er utilgængelig."
+  },
+  "energy": {
+    "unreachable": "Denne enhed er utilgængelig.",
+    "no_room": "Denne enhed er ikke en del af et rum.",
+    "default_schedule": "Standard tidsplan"
+  },
+  "health": {
+    "0": "Sund",
+    "1": "Fin",
+    "2": "Middel",
+    "3": "Dårlig",
+    "4": "Usund"
+  }
+}

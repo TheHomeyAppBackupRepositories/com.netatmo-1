@@ -1,0 +1,17 @@
+{
+  "common": {
+    "unavailable": "Enheten är otillgänglig."
+  },
+  "energy": {
+    "unreachable": "Den här enheten går inte att nå.",
+    "no_room": "Den här enheten är inte en del av ett rum.",
+    "default_schedule": "Standard Schema"
+  },
+  "health": {
+    "0": "Hälsosam",
+    "1": "Bra",
+    "2": "Okej",
+    "3": "Dålig",
+    "4": "Ohälsosam"
+  }
+}

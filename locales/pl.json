@@ -1,0 +1,17 @@
+{
+  "common": {
+    "unavailable": "Urządzenie jest niedostępne."
+  },
+  "energy": {
+    "unreachable": "To urządzenie jest nieosiągalne.",
+    "no_room": "To urządzenie nie jest częścią pokoju.",
+    "default_schedule": "Domyślny harmonogram"
+  },
+  "health": {
+    "0": "Zdrowy",
+    "1": "Dobry",
+    "2": "Umiarkowany",
+    "3": "Słaby",
+    "4": "Niezdrowy"
+  }
+}
